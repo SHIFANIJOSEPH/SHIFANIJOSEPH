@@ -4,8 +4,12 @@ Hi 👋 My name is Shifani Joseph
 🌱 Currently learning and exploring:
 
 JavaScript
+
+
 Java
+
 Data Structures & Algorithms
+
 powerBI
 
 ===============================
